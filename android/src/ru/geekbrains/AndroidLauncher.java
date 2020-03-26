@@ -1,10 +1,9 @@
-package ru.geekbraibs;
+package ru.geekbrains;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import ru.geekbraibs.StarGame;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
